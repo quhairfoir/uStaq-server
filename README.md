@@ -1,8 +1,8 @@
-## uStaq
+# uStaq
 
 This is half the uStaq project -- client side: https://github.com/quhairfoir/uStaq-client
 
-# Getting Started
+## Getting Started
 1) running this project requires authentication with Google's NLP API 
   - create a project with Google Cloud and activate the api
   - create `ga.json` file in root of the *server* directory
